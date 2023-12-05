@@ -54,7 +54,7 @@ nav ul li a:hover {
 .cover-image p {
     color: blueviolet;
     font-size: 19px;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .explore-btn {
@@ -106,6 +106,7 @@ nav ul li a:hover {
     margin-bottom: 30px;
     text-align: center;
     color: white;
+    font-weight: bolder;
 }
 
 .inspiration h2 {
@@ -165,7 +166,7 @@ nav ul li a:hover {
 }
 
 .social-link:hover {
-    background-color: orchid;
+    background-color: blueviolet;
 }
 
 .social-link i {
