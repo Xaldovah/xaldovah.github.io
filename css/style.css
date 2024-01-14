@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 * {
-	* margin: 0;
-	* padding: 0;
-	* box-sizing: border-box;
-	* text-decoration: none;
-	* border: none;
-	* outline: none;
-	* scroll-behavior: smooth;
-	* font-family: 'Poppins', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	border: none;
+	outline: none;
+	scroll-behavior: smooth;
+	font-family: 'Poppins', sans-serif;
 }
 
 :root {
@@ -82,7 +82,7 @@ section {
 }
 
 .home-img img {
-	height: 50px
+	height: 50px;
 	width: 50px;
 	animation: floatImage 4s ease-in-out infinite;
 }
@@ -169,7 +169,8 @@ span {
 }
 
 .about-img img {
-	width: 35vw;
+	height: 30px;
+	width: 30px;
 }
 
 .heading {
