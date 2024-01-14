@@ -82,8 +82,8 @@ section {
 }
 
 .home-img img {
-	height: 500px;
-	width: 230px;
+	height: 400px;
+	width: 130px;
 	animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -169,8 +169,8 @@ span {
 }
 
 .about-img img {
-	height: 500px;
-	width: 250px;
+	height: 400px;
+	width: 150px;
 }
 
 .heading {
